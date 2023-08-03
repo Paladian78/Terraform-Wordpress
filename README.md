@@ -37,3 +37,8 @@ This is a terraform code to deploy Wordpress in a docker and a SQL Database with
   - The above command will lay out all the resources that would be deployed by this script.
   - Command: `terraform apply -var-file param.tfvars`
   - The above command will deploy the resource to your azure environment. You'll be prompted to enter `yes` after the plan is displayed to confirm the deployment.
+
+## Links to refer
+
+- [Azure Subscription](https://azure.microsoft.com/en-in/free)
+- [Azure CLI Tool](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
